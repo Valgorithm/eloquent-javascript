@@ -1,6 +1,6 @@
 /*
  The code below defines a recursive function that accepts a number parameter and returns a Boolean indicating whether the number, if
- positive and whole, is even (true) or odd (false) according to the following rules:
+ nonnegative and whole, is even (true) or odd (false) according to the following rules:
  
    • Zero is even.
    • One is odd.
